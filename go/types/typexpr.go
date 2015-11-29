@@ -12,7 +12,7 @@ import (
 	"sort"
 	"strconv"
 
-	"code.google.com/p/gordon-go/flux/go/exact"
+	"github.com/gordonklaus/flux/go/exact"
 )
 
 // ident type-checks identifier e and initializes x with the value or type of e.

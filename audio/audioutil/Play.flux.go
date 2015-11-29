@@ -3,8 +3,8 @@
 package audioutil
 
 import (
-	"code.google.com/p/gordon-go/audio"
-	"code.google.com/p/portaudio-go/portaudio"
+	"github.com/gordonklaus/flux/audio"
+	"github.com/gordonklaus/portaudio"
 )
 
 func Play(x audio.Voice) () {

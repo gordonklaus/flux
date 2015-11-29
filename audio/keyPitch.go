@@ -1,7 +1,7 @@
 package audio
 
 import (
-	"code.google.com/p/gordon-go/gui"
+	"github.com/gordonklaus/gui"
 )
 
 var KeyPitch = map[int]float64{

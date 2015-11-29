@@ -1,7 +1,7 @@
 package gui
 
 import (
-	. "code.google.com/p/gordon-go/util"
+	. "github.com/gordonklaus/util"
 	gl "github.com/chsc/gogl/gl21"
 )
 

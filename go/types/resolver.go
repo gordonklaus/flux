@@ -13,7 +13,7 @@ import (
 	"strings"
 	"unicode"
 
-	"code.google.com/p/gordon-go/flux/go/exact"
+	"github.com/gordonklaus/flux/go/exact"
 )
 
 func (check *checker) reportAltDecl(obj Object) {

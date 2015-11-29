@@ -1,7 +1,7 @@
 package gui
 
 import (
-	"code.google.com/p/gordon-go/glfw"
+	"github.com/gordonklaus/glfw"
 	gl "github.com/chsc/gogl/gl21"
 	"log"
 )

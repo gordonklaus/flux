@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"code.google.com/p/gordon-go/flux/go/types"
+	"github.com/gordonklaus/flux/go/types"
 )
 
 // typemap.M is a mapping from types.Type to interface{} values.

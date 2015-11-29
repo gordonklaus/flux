@@ -14,8 +14,8 @@ import (
 	"testing"
 
 	_ "golang.org/x/tools/go/gcimporter"
-	"code.google.com/p/gordon-go/flux/go/exact"
-	. "code.google.com/p/gordon-go/flux/go/types"
+	"github.com/gordonklaus/flux/go/exact"
+	. "github.com/gordonklaus/flux/go/types"
 )
 
 func pkgFor(path, source string, info *Info) (*Package, error) {

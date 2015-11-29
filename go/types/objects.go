@@ -10,7 +10,7 @@ import (
 	"go/ast"
 	"go/token"
 
-	"code.google.com/p/gordon-go/flux/go/exact"
+	"github.com/gordonklaus/flux/go/exact"
 )
 
 // TODO(gri) Document factory, accessor methods, and fields. General clean-up.

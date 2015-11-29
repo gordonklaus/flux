@@ -12,7 +12,7 @@ import (
 	"go/parser"
 	"go/token"
 
-	"code.google.com/p/gordon-go/flux/go/exact"
+	"github.com/gordonklaus/flux/go/exact"
 )
 
 // New is a convenience function to create a new type from a given

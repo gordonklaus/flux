@@ -10,7 +10,7 @@ import (
 	"go/ast"
 	"go/token"
 
-	"code.google.com/p/gordon-go/flux/go/exact"
+	"github.com/gordonklaus/flux/go/exact"
 )
 
 // assignment reports whether x can be assigned to a variable of type T,

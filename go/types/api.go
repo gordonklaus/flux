@@ -28,7 +28,7 @@ import (
 	"go/ast"
 	"go/token"
 
-	"code.google.com/p/gordon-go/flux/go/exact"
+	"github.com/gordonklaus/flux/go/exact"
 )
 
 // Check type-checks a package and returns the resulting complete package

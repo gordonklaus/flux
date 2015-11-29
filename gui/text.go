@@ -1,8 +1,8 @@
 package gui
 
 import (
-	"code.google.com/p/gordon-go/ftgl"
-	"code.google.com/p/gordon-go/glfw"
+	"github.com/gordonklaus/ftgl"
+	"github.com/gordonklaus/glfw"
 	gl "github.com/chsc/gogl/gl21"
 	"go/build"
 	"os"
@@ -62,7 +62,7 @@ func getFont() ftgl.Font {
 
 func pkgDir() string {
 	for _, dir := range build.Default.SrcDirs() {
-		dir := filepath.Join(dir, "code.google.com/p/gordon-go/flux/gui")
+		dir := filepath.Join(dir, "github.com/gordonklaus/flux/gui")
 		if _, err := os.Stat(dir); err == nil {
 			return dir
 		}

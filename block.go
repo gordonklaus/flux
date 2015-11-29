@@ -5,9 +5,9 @@
 package main
 
 import (
-	"code.google.com/p/gordon-go/flux/go/types"
-	. "code.google.com/p/gordon-go/flux/gui"
-	. "code.google.com/p/gordon-go/util"
+	"github.com/gordonklaus/flux/go/types"
+	. "github.com/gordonklaus/flux/gui"
+	. "github.com/gordonklaus/util"
 	"fmt"
 	"go/token"
 	"math/rand"

@@ -5,7 +5,7 @@
 package main
 
 import (
-	"code.google.com/p/gordon-go/flux/go/types"
+	"github.com/gordonklaus/flux/go/types"
 	"go/ast"
 	"go/build"
 	"go/parser"

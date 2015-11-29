@@ -5,7 +5,7 @@
 package main
 
 import (
-	. "code.google.com/p/gordon-go/flux/gui"
+	. "github.com/gordonklaus/flux/gui"
 	"math"
 	"math/rand"
 	"time"

@@ -11,7 +11,7 @@ import (
 	"go/token"
 	"path"
 
-	"code.google.com/p/gordon-go/flux/go/exact"
+	"github.com/gordonklaus/flux/go/exact"
 )
 
 // debugging/development support

@@ -10,7 +10,7 @@ import (
 	"go/token"
 	"strings"
 
-	"code.google.com/p/gordon-go/flux/go/exact"
+	"github.com/gordonklaus/flux/go/exact"
 )
 
 var (

@@ -6,7 +6,7 @@
 
 package types
 
-import "code.google.com/p/gordon-go/flux/go/exact"
+import "github.com/gordonklaus/flux/go/exact"
 
 // Conversion type-checks the conversion T(x).
 // The result is in x.

@@ -24,7 +24,7 @@ import (
 	"time"
 
 	_ "golang.org/x/tools/go/gcimporter"
-	. "code.google.com/p/gordon-go/flux/go/types"
+	. "github.com/gordonklaus/flux/go/types"
 )
 
 var verbose = flag.Bool("types.v", false, "verbose mode")
